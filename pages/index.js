@@ -7,6 +7,12 @@ export default function Home() {
       <div>
 
         <h1>Hello Bangladesh</h1>
+        
+        <h1>Hello Bangladesh</h1>
+
+        <h1>Hello Bangladesh 1</h1>
+
+
 
       </div>
     </>
